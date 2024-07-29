@@ -93,10 +93,9 @@ We would like to thank the contributors and the Power BI community for their sup
 
 ---
 
-For any questions or feedback, feel free to open an issue or contact the repository owner.
+For any questions or feedback, feel free to open an issue or contact the repository owner barmansubha02@gmail.com
 
 Happy Analyzing!
 
 ---
 
-**Note:** Replace `yourusername` with your actual GitHub username in the clone URL.
