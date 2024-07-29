@@ -14,6 +14,8 @@
 ## Introduction
 The **Amazon Prime Video Dashboard** project provides an in-depth analysis of Amazon Prime Video's growth in the industry from 1920 to 2021. Utilizing Power BI, this dashboard offers a comprehensive view of various metrics and trends, allowing users to explore and understand the platform's development over the years.
 The dashboard in power BI is as follows:
+![dashboard](https://github.com/user-attachments/assets/b1f3dda3-b382-47d4-ab2a-9287b65abe15)
+
 
 
 ## Features
