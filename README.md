@@ -32,7 +32,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Subhadeep-Barman/amazon-prime-video-dashboard.git
+   git clone https://github.com/Subhadeep-Barman/AmazonPrime_Power-BI.git
    cd amazon-prime-video-dashboard
    ```
 
